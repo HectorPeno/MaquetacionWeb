@@ -13,7 +13,7 @@ En esta práctica, crearemos una página web cuya estructura y contenido se gene
 2. El contenido de la página (títulos, texto, imágenes, tablas, etc.) se debe generar completamente con JavaScript.
 3. Utilizar un archivo CSS externo para los estilos.
 
-## Estructura de Archivos
-1.HTML
-2.CSS
-3.JavaScript
+## Estrutura de archivos
+1. HTML
+2. JavaScript
+3. CSS
